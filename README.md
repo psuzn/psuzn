@@ -1,24 +1,26 @@
 # 👋 Hi there
 
-I'm Sujan, software engineer living in the Kathmandu, Nepal. I'm here on Github building stuff like [Play Deals](https://github.com/psuzn/play-deals), a multiplatform app to discover paid apps or free or discount.
+I'm Sujan, a software engineer living in Kathmandu, Nepal. I'm here on Github building stuff like [Play Deals](https://github.com/psuzn/play-deals) (a multiplatform app to discover discounts on paid apps) and [WheelView](https://github.com/psuzn/WheelView).
 
 
 # Things I work on
-I get drawn to anything I spend some time playing with. This has lead me to work on different technologies. I have worked on anything from native android/ios apps, backends, database design and even have built some mobile games along the ways. 
+I get drawn to anything I spend some time playing with. This has led me to work on different technologies. I work on anything from native Android/iOS apps, backends(JVM/node), and database design and even built some mobile games along the way. 
 
-I enjoy designing the products from ground up, involving and being part of all the aspect of it. 
+I enjoy designing things from the ground up, involving and being part of all aspects of it. 
 
-Right now I'm exploring [Kotlin Multiplatform (KMP)](https://kotlinlang.org/docs/multiplatform.html).
+Right now I'm exploring [Kotlin Multiplatform (KMP)](https://kotlinlang.org/docs/multiplatform.html). 
 
 ## Drop me a line
 
-If you're interested in collaborating or chatting, email me at me at sujanpoudel (dot) me, or dm me [@psuzn](twitter.com/psuzn).
+If you're interested in collaborating or chatting, email me at sujanpoudel (dot) me, or DM me [@psuzn](twitter.com/psuzn).
 
 # Current project
 
 ## Play Deals
 
-I recently rewrote [Play Deals](https://github.com/psuzn/play-deals) with [kotlin multiplatform(KMP)](https://kotlinlang.org/docs/multiplatform.html). It supports Android, IOS, macOs, Windows and Linux. 
+![Feature](https://github.com/psuzn/Play-Deals/blob/develop/metadata/en-US/images/featureGraphic.png?raw=true)
+
+I recently rewrote [Play Deals](https://github.com/psuzn/play-deals) with [kotlin multiplatform(KMP)](https://kotlinlang.org/docs/multiplatform.html),and backend with [kotlin/vertx]([https://github.com/psuzn/play-deals](https://github.com/psuzn/Play-Deals-Backend). You can download native apps for Android, IOS, macOS, Windows and Linux. 
 
 
 ## Other open source work
@@ -27,9 +29,9 @@ I recently rewrote [Play Deals](https://github.com/psuzn/play-deals) with [kotli
 
 -  [`WheelView`](https://github.com/psuzn/WheelView): A small library to build custom choice wheels on android.
 
-- [`ADB Wifi`](https://github.com/psuzn/ADB-WiFi) is an old app of mine. I made it as a tool for myself to access ADB interface wirelessly when we didn't have native support for it. We kind of have in built support for wireless ADB (since android 11) but some folks are still using it. 
+- [`ADB Wifi`](https://github.com/psuzn/ADB-WiFi) is an old app of mine. I made it a tool for myself to access the ADB interface wirelessly when we didn't have native support for it. We kind of have built-in support for wireless ADB (since Android 11) but some folks are still using it. 
 
-- [`google-image-scrapper`](https://github.com/psuzn/google-image-scrapper) : Script to bulk down similar image using google's reverse image search. 
+- [`google-image-scrapper`](https://github.com/psuzn/google-image-scrapper) : Script to bulk down similar images using Google's reverse image search. 
 
 ### I am a contributor to
 
