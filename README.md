@@ -1,26 +1,26 @@
 # 👋 Hi there
 
-I'm Sujan, a software engineer living in Kathmandu, Nepal. I'm here on Github building stuff like [Play Deals](https://github.com/psuzn/play-deals) (a multiplatform app to discover discounts on paid apps) and [WheelView](https://github.com/psuzn/WheelView).
+I'm Sujan, a software engineer living in Kathmandu, Nepal. I'm here on Github building stuff like [Multiplatform Utils](https://github.com/psuzn/mp-utils) and [Play Deals](https://github.com/psuzn/play-deals). 
 
 
 # Things I work on
-I get drawn to anything I spend some time playing with. This has led me to work on different technologies. I work on anything from native Android/iOS apps, backends(JVM/node), and database design and even built some mobile games along the way. 
-
-I enjoy designing things from the ground up, involving and being part of all aspects of it. 
-
-Right now I'm exploring [Kotlin Multiplatform (KMP)](https://kotlinlang.org/docs/multiplatform.html). 
+I get drawn to anything I spend some time playing with. This has led me to learn and work on different technologies over the years. I work on anything from native Android and IOS apps, backends(JVM/node), and database design and I have even built some mobile games along the way. I enjoy designing things from the ground up, involving and being part of all aspects. 
 
 ## Drop me a line
 
-If you're interested in collaborating or chatting, email me at sujanpoudel (dot) me, or DM me [@psuzn](twitter.com/psuzn).
+If you're interested in collaborating or chatting, email me at `mail<at>sujanpoudel<dot>me`, or DM me [@psuzn](twitter.com/psuzn).
 
-# Current project
+# Current Projects
+
+## Multiplatform Utils 
+
+[MP Utils](https://github.com/psuzn/mp-utils) is a collection of a few utility libraries for Kotlin Multiplatform that helps you to get app data/cache directories, identify the current platform and more. 
 
 ## Play Deals
 
 ![Feature](https://github.com/psuzn/Play-Deals/blob/develop/metadata/en-US/images/featureGraphic.png?raw=true)
 
-I recently rewrote [Play Deals](https://github.com/psuzn/play-deals) with [kotlin multiplatform(KMP)](https://kotlinlang.org/docs/multiplatform.html),and backend with [kotlin/vertx]([https://github.com/psuzn/play-deals](https://github.com/psuzn/Play-Deals-Backend). You can download native apps for Android, IOS, macOS, Windows and Linux. 
+I recently rewrote [Play Deals](https://github.com/psuzn/play-deals) with [kotlin multiplatform(KMP)](https://kotlinlang.org/docs/multiplatform.html), and backend with [kotlin/vertx]([https://github.com/psuzn/play-deals](https://github.com/psuzn/Play-Deals-Backend). It has native Android, IOS, macOS, Windows and Linux apps. 
 
 
 ## Other open source work
