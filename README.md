@@ -20,12 +20,14 @@ If you're interested in collaborating or chatting, email me at `mail<at>sujanpou
 
 ![Feature](https://github.com/psuzn/Play-Deals/blob/develop/metadata/en-US/images/featureGraphic.png?raw=true)
 
-I recently rewrote [Play Deals](https://github.com/psuzn/play-deals) with [kotlin multiplatform(KMP)](https://kotlinlang.org/docs/multiplatform.html), and backend with [kotlin/vertx]([https://github.com/psuzn/play-deals](https://github.com/psuzn/Play-Deals-Backend). It has native Android, IOS, macOS, Windows and Linux apps. 
+I recently rewrote [Play Deals](https://github.com/psuzn/play-deals) with [kotlin multiplatform(KMP)](https://kotlinlang.org/docs/multiplatform.html), and backend with [kotlin/vertx](https://vertx.io/). It has native Android, IOS, macOS, Windows and Linux apps. 
 
 
 ## Other open source work
 
 ### I am the author of
+
+-  [`deals-scrapper`](https://github.com/psuzn/deals-scrapper): Deals scrapper written in golang to scrap deals from the web.
 
 -  [`WheelView`](https://github.com/psuzn/WheelView): A small library to build custom choice wheels on android.
 
@@ -35,6 +37,6 @@ I recently rewrote [Play Deals](https://github.com/psuzn/play-deals) with [kotli
 
 ### I am a contributor to
 
--   [`Kamel`](https://github.com/psuzn/Kamel): I contributed the [offline disk cache `(LRU based disk cache)`](https://github.com/Kamel-Media/Kamel/pull/61)
+-   [`Kamel`](https://github.com/psuzn/Kamel): I added support for the [offline disk cache `(LRU based disk cache)`](https://github.com/Kamel-Media/Kamel/pull/61)
 
--   [`multiplatform-markdown-renderer`](https://github.com/mikepenz/multiplatform-markdown-renderer): I contributed to add the [support for generic image loaders]((https://github.com/mikepenz/multiplatform-markdown-renderer/pull/72)) and also [fixed the dynamic image size issue](https://github.com/mikepenz/multiplatform-markdown-renderer/pull/72).
+-   [`multiplatform-markdown-renderer`](https://github.com/mikepenz/multiplatform-markdown-renderer): I contributed to add the [support for generic image loaders](https://github.com/mikepenz/multiplatform-markdown-renderer/pull/72) and also [fixed the dynamic image size issue](https://github.com/mikepenz/multiplatform-markdown-renderer/pull/72).
