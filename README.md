@@ -1,10 +1,10 @@
 # 👋 Hi there
 
-I'm Sujan, a software engineer living in Kathmandu, Nepal. I'm here on Github building stuff like [Multiplatform Utils](https://github.com/psuzn/mp-utils) and [Play Deals](https://github.com/psuzn/play-deals). 
+I'm Sujan, a software engineer living in Kathmandu, Nepal. I'm here on Github building stuff like [Kotlin Multiplatform Utils](https://github.com/psuzn/mp-utils) and [Play Deals](https://github.com/psuzn/play-deals). 
 
 
 # Things I work on
-I get drawn to anything I spend some time playing with. This has led me to learn and work on different technologies over the years. I work on anything from native Android and IOS apps, backends(JVM/node), and database design and I have even built some mobile games along the way. I enjoy designing things from the ground up, involving and being part of all aspects. 
+I get drawn to anything I spend some time playing with. This has led me to learn and work on different technologies over the years. I work on anything from native Android/IOS apps, and backends(JVM/node), and also do a little bit of database design and DevOps. I have even built some small mobile games along the way. I enjoy designing things from the ground up and being part of all aspects. 
 
 ## Drop me a line
 
@@ -18,9 +18,9 @@ If you're interested in collaborating or chatting, email me at `mail<at>sujanpou
 
 ## Play Deals
 
-![Feature](https://github.com/psuzn/Play-Deals/blob/develop/metadata/en-US/images/featureGraphic.png?raw=true)
+[Play Deals](https://github.com/psuzn/play-deals) is a small multiplatform app built with kotlin multiplatform. It was a standalone Android app and I recently rewrote it with KMP. Now it supports Android, IOS, macOS, Windows and Linux. 
 
-I recently rewrote [Play Deals](https://github.com/psuzn/play-deals) with [kotlin multiplatform(KMP)](https://kotlinlang.org/docs/multiplatform.html), and backend with [kotlin/vertx](https://vertx.io/). It has native Android, IOS, macOS, Windows and Linux apps. 
+The [backend](https://github.com/psuzn/play-deals-backend) (built with [kotlin/vertx](https://vertx.io/)) and the [web scraper](https://github.com/psuzn/deals-scrapper) (built with [GoLang](https://go.dev/)) are also open spurce. 
 
 
 ## Other open source work
