@@ -1,10 +1,10 @@
 # 👋 Hi there
 
-I'm Sujan, a software engineer living in Kathmandu, Nepal. I'm here on Github building stuff like [Kotlin Multiplatform Utils](https://github.com/psuzn/mp-utils) and [Play Deals](https://github.com/psuzn/play-deals). 
+I'm Sujan, a software engineer living in Kathmandu, Nepal. I'm here on Github building stuff like [Play Deals](https://github.com/psuzn/play-deals) and [Multiplatform Paths](https://github.com/psuzn/mp-utils). 
 
 
 # Things I work on
-I get drawn to anything I spend some time playing with. This has led me to learn and work on different technologies over the years. I work on anything from native Android/IOS apps, and backends(JVM/node), and also do a little bit of database design and DevOps. I have even built some small mobile games along the way. I enjoy designing things from the ground up and being part of all aspects. 
+I work on anything from native Android/IOS apps, and backends(JVM/node), and I also do some database design and DevOps. I have even built some small mobile games along the way. I enjoy designing things from the ground up and being part of all aspects. 
 
 ## Drop me a line
 
@@ -12,9 +12,9 @@ If you're interested in collaborating or chatting, email me at `mail<at>sujanpou
 
 # Current Projects
 
-## Multiplatform Utils 
+## Multiplatform Paths 
 
-[MP Utils](https://github.com/psuzn/mp-utils) is a collection of a few utility libraries for Kotlin Multiplatform that helps you to get app data/cache directories, identify the current platform and more. 
+[Multiplatform Paths](https://github.com/psuzn/multiplatform-paths) is a kotlin multiplatform library to get platform-specific app data and cache directories. 
 
 ## Play Deals
 
