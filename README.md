@@ -19,7 +19,7 @@ I work on anything from native Android/IOS apps, and backends(JVM/node), and I a
 
 ### I am a contributor to : 
 
-* [detekt/detekt](detekt) :
+* [detekt/detekt](https://github.com/detekt/detekt) :
   * Improved their [UnusedPrivateProperty checks](https://github.com/detekt/detekt/pull/7089),
   * Added the new [UnusedVariable Rule](https://github.com/detekt/detekt/pull/7089) and
   * Fixed [false positive in useless postfix rule](https://github.com/detekt/detekt/pull/7084).
