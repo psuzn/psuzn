@@ -9,8 +9,8 @@ I work on anything from native Android/IOS apps, and backends(JVM/node), and I a
 
 ### I am the author of : 
 
-* [Play Deals](https://github.com/psuzn/play-deals) : A multiplatform app built with kotlin multiplatform that lists out paid apps that have a sale or discount on Google Play Store and has over 20k downloads on Google Play Store.
-  * [Play Deals Backend](https://github.com/psuzn/play-deals) : Backend for [Play Deals](https://github.com/psuzn/play-deals). 
+* [Play Deals](https://github.com/psuzn/play-deals) : A multiplatform app built with kotlin multiplatform that lists out paid apps that have a sale or discount on Google Play Store and has over 25k downloads on Google Play Store.
+  * [Play Deals Backend](https://github.com/psuzn/Play-Deals-Backend) : Backend for [Play Deals](https://github.com/psuzn/play-deals). 
   * [Deals Scrapper](https://github.com/psuzn/deals-scrapper) : Deals scrapper written in Golang to scrap deals from the web (a microservice for [Play Deals](https://github.com/psuzn/play-deals) ).
 * [Multiplatform Paths](https://github.com/psuzn/multiplatform-paths) : Kotin Multiplatform library to get platform-specific app data and cache directories.
 * [Wheel View](https://github.com/psuzn/WheelView) : A small library to build custom choice wheels on Android.
